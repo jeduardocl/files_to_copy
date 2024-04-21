@@ -1,8 +1,8 @@
-name: nb_conda_env
+name: project-env
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.6
+  - python=3.10
   - nb_conda_kernels
 prefix: C:\Users\jedua\miniconda3\envs\nb_conda_env
